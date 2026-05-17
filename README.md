@@ -24,6 +24,11 @@ Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Fl
 
 ![Streak](https://streak-stats.demolab.com?user=bimalitani100&theme=radical)
 
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/bimalitani100/bimalitani100/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
