@@ -20,11 +20,10 @@ Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Fl
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bimalitani100&show_icons=true&theme=radical)
+
 
 ![Streak](https://streak-stats.demolab.com?user=bimalitani100&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimalitani100&layout=compact&theme=radical)
 
 ---
 
@@ -36,6 +35,6 @@ Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Fl
 ---
 
 ##  Connect
-LinkedIn: https://www.linkedin.com/in/bimal-itani100/
-Portfolio: https://bimalitani100.github.io/
-GitHub: https://github.com/bimalitani100
+- LinkedIn: https://www.linkedin.com/in/bimal-itani100/
+- Portfolio: https://bimalitani100.github.io/
+- GitHub: https://github.com/bimalitani100
