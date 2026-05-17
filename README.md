@@ -28,7 +28,7 @@ Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Fl
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/bimalitani100/bimalitani100/output/github-contribution-grid-snake.svg)
+![snake gif](https://bimalitani100.github.io/bimalitani100/github-contribution-grid-snake.svg)
 
 ---
 
