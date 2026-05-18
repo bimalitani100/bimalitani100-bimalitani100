@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Bimal%20Itani&fontAlign=50&fontAlignY=35&fontSize=40&desc=AI%20Engineer%20%7C%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55&animation=fadeIn"/>
+
 # Hi, I'm Bimal 👋
 
 💻 Computer Science Student | AI & Data Engineering Enthusiast  
@@ -13,8 +15,11 @@
 
 ---
 
-##  Tech Stack
-Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Flask • Git
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,pytorch,aws,git,github,linux,html,css,javascript,vscode" />
+</p>
 
 ---
 
@@ -39,7 +44,14 @@ Python • Java • SQL • TensorFlow • scikit-learn • MySQL • AWS • Fl
 
 ---
 
-##  Connect
-- LinkedIn: https://www.linkedin.com/in/bimal-itani100/
-- Portfolio: https://bimalitani100.github.io/
-- GitHub: https://github.com/bimalitani100
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bimal-itani100/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/bimalitani100">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
