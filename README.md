@@ -31,15 +31,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimalitani100&theme=tokyonight" />
-</p>
+![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimalitani100&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bimalitani100&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bimalitani100&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimalitani100&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bimalitani100&theme=tokyonight)
 
 ---
 ## 🐍 Contribution Snake
