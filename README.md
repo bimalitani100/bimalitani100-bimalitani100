@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Bimal%20Itani&fontAlign=50&fontAlignY=35&fontSize=40&desc=AI%20Engineer%20%7C%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bimal+Itani;Senior+Computer+Science+Major;AI+%26+Data+Engineering+Enthusiast;Building+Real-World+Software+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bimal+Itani;Senior+Computer+Science+Major;Building+Real-World+Software+Projects" />
 </p>
 
 💻 Computer Science Student | AI & Data Engineering Enthusiast  
