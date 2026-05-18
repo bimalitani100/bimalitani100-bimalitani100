@@ -14,6 +14,7 @@
 </p>
 
 ## What I'm Working On
+- Peripheral artery disease detection [PAD] (Neural Network/ CNN)
 - Brain Tumor Detection (CNN / Deep Learning)
 - Stock Intelligence Dashboard (ML + PyQt6)
 - Data Engineering pipelines (Python + SQL)
