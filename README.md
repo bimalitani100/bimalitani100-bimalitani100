@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Bimal%20Itani&fontAlign=50&fontAlignY=35&fontSize=40&desc=AI%20Engineer%20%7C%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55&animation=fadeIn"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Engineering+Enthusiast;Software+Developer;Building+Real-World+Projects" />
+</p>
+
 # Hi, I'm Bimal 👋
 
 💻 Computer Science Student | AI & Data Engineering Enthusiast  
@@ -7,6 +11,9 @@
 📊 Interested in ML pipelines, cloud, and real-world systems  
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bimalitani100&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## What I'm Working On
 - Brain Tumor Detection (CNN / Deep Learning)
@@ -25,12 +32,13 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimalitani100&show_icons=true&theme=tokyonight" height="180em"/>
 
-
-![Streak](https://streak-stats.demolab.com?user=bimalitani100&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalitani100&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/bimalitani100/bimalitani100-bimalitani100/blob/output/github-contribution-grid-snake.svg)
